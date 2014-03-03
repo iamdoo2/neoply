@@ -4,6 +4,12 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+# ignore Mac default store files.
+*.DS_Store
+
+# ignore Linux swp files.
+*.swp
+
 # Ignore bundler config.
 /.bundle
 
