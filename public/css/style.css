@@ -433,7 +433,7 @@ h1.mega {
 }
 
 .portfolio-isotope li:hover .isotope-alt-details {
-	opacity: 0; pointer-events: none;
+	/*opacity: 0; pointer-events: none;*/
 }
 
 .isotope-alt-details {
