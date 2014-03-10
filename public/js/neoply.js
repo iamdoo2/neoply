@@ -34,7 +34,7 @@ companies.push(
     ["current", "iamschool", "아이멤컴퍼니",
     "온라인 프로그래밍 교육 스타트업입니다.<br>서울대학교 동아리 '멋쟁이 사자처럼'에 뿌리를 두고 있으며, KISA와 공동으로 코드라이언(<a href='http://codelion.net' target='_blank' style='color:white;'>http://codelion.net</a>)을 진행하고 있습니다."]);
 companies.push(
-    ["current", "trazy", "윌로3",
+    ["current", "trazy", "Trazy",
     "온라인 프로그래밍 교육 스타트업입니다.<br>서울대학교 동아리 '멋쟁이 사자처럼'에 뿌리를 두고 있으며, KISA와 공동으로 코드라이언(<a href='http://codelion.net' target='_blank' style='color:white;'>http://codelion.net</a>)을 진행하고 있습니다."]);
 
 companies = shuffle(companies);
